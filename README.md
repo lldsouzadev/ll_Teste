@@ -23,7 +23,7 @@ Num | Nome | Nota
 
 ---
 
-para adicionar uma marcação de código `getIdByName()` use crases
+para adicionar uma marcação de código `getIdByName()` use crases   
 para adicionar trecho de código use 3 crases:
 
 ```
