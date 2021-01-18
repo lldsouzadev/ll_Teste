@@ -20,3 +20,12 @@ Num | Nome | Nota
 1 | Leandro | 8.5
 2 | teste | de
 3 | tabela | ok
+
+---
+
+para adicionar uma marcação de código `getIdByName()` use crases
+para adicionar trecho de código use 3 crases:
+
+```
+printf("Hello World!");
+```
